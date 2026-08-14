@@ -1,4 +1,4 @@
-# [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)
+# [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem?isFullScreen=true)
 ## Easy
 <div class="challenge-body-html"><div class="challenge_problem_statement"><div class="msB challenge_problem_statement_body"><div class="hackdown-content"><svg style="display: none;"><defs id="MathJax_SVG_glyphs"></defs></svg><h3><sub><a href="https://docs.python.org/2/library/collections.html#collections.deque">collections.deque()</a></sub></h3>
 
